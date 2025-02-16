@@ -1,0 +1,1 @@
+This error typically occurs when you are using an older version of Expo CLI or when there's a conflict between the Expo CLI and other tools or libraries installed on your system.  The error message itself might not be very informative, so debugging requires careful checking of the various components involved.
